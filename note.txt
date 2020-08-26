@@ -1,0 +1,45 @@
+Starting A React App
+
+npx create-react-app hulutwo
+
+How to start A react App
+
+npm start
+
+After creating the Project 
+
+Go to create a Firebase Project Account 
+
+"tmdb" What is a tmdb: TMDB is a movies Database
+
+Create a TMDB Account 
+
+Go to setting -> on the left go to API
+
+Here is Your Api Keys:
+API Key (v3 auth)
+c7f3716dd7c7a451c647937f27896e8e
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=c7f3716dd7c7a451c647937f27896e8e
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjN2YzNzE2ZGQ3YzdhNDUxYzY0NzkzN2YyNzg5NmU4ZSIsInN1YiI6IjVmNDYxNDQwMmRhODQ2MDAzNDM5NTk3NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5bAFoREyufkhQcy5-JeFZ3f8QLElI61ELBjks8wVrPM
+
+rfce: short cut to create function template, In order for it to work you need to download ES& React/Redux
+
+Note: Import class, go to the class press control spacebar and auto import class
+
+**Material-ui.com** gives you tons of icons
+https://material-ui.com/
+
+$ npm install @material-ui/core
+
+Also install the bellow to have acces to icons
+// with npm
+npm install @material-ui/icons
+
+// with yarn
+yarn add @material-ui/icons
+
+Note: Found All the Icons here: https://material-ui.com/components/material-icons/
